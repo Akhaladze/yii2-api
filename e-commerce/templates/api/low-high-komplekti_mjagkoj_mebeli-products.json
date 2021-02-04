@@ -1,0 +1,18 @@
+{
+	"items": [
+		{
+			"name": "Комплект Olivia",
+			"description": "Массив дуба",
+			"price": 2500,
+			"image": "https://mebel-benelux.com.ua/assets/images/products/1430/126x80/olivia-kompl.jpg",
+			"category": "komplekti_mjagkoj_mebeli"
+		},
+		{
+			"name": "Комплект Ferenza",
+			"description": "Производитель ANKER",
+			"price": 2550,
+			"image": "https://mebel-benelux.com.ua/assets/images/products/1044/126x80/komplekt_mebeli_ferenza.jpg",
+			"category": "komplekti_mjagkoj_mebeli"
+		}
+	]
+}

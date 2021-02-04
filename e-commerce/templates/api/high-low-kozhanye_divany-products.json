@@ -1,0 +1,18 @@
+{
+	"items": [
+		{
+			"name": "Диван Olivia трёхместный",
+			"description": "Производитель DN DESIGN",
+			"price": 1380,
+			"image": "https://mebel-benelux.com.ua/assets/images/products/1431/126x80/olivia-3.jpg",
+			"category": "kozhanye_divany"
+		},
+		{
+			"name": "Диван Tirol трёхместный",
+			"description": "Silver alloy construction for durability.",
+			"price": 1200,
+			"image": "https://mebel-benelux.com.ua/assets/images/products/1094/126x80/divan_3m_tirol1.jpg",
+			"category": "kozhanye_divany"
+		}
+	]
+}

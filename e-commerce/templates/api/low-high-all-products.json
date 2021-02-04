@@ -1,0 +1,39 @@
+{
+	"items": [
+		{
+			"name": "Кресло Ridge",
+			"description": "Silver alloy construction for durability.",
+			"price": 740,
+			"image": "https://mebel-benelux.com.ua/assets/images/products/1188/126x80/kreslo_ridge.jpg",
+			"category": "kozhanye_kresla"
+		},
+		{
+			"name": "Диван Tirol трёхместный",
+			"description": "Silver alloy construction for durability.",
+			"price": 1200,
+			"image": "https://mebel-benelux.com.ua/assets/images/products/1094/126x80/divan_3m_tirol1.jpg",
+			"category": "kozhanye_divany"
+		},
+		{
+			"name": "Диван Olivia трёхместный",
+			"description": "Производитель DN DESIGN",
+			"price": 1380,
+			"image": "https://mebel-benelux.com.ua/assets/images/products/1431/126x80/olivia-3.jpg",
+			"category": "kozhanye_divany"
+		},
+		{
+			"name": "Комплект Olivia",
+			"description": "Массив дуба",
+			"price": 2500,
+			"image": "https://mebel-benelux.com.ua/assets/images/products/1430/126x80/olivia-kompl.jpg",
+			"category": "komplekti_mjagkoj_mebeli"
+		},
+		{
+			"name": "Комплект Ferenza",
+			"description": "Производитель ANKER",
+			"price": 2550,
+			"image": "https://mebel-benelux.com.ua/assets/images/products/1044/126x80/komplekt_mebeli_ferenza.jpg",
+			"category": "komplekti_mjagkoj_mebeli"
+		}
+	]
+}
